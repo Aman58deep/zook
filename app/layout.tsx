@@ -12,8 +12,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Jotion',
-  description: 'The connected workspace where better, faster work happens.',
+  title: 'Zook',
+  description: 'The new zen connected workspace where better, faster work happens.',
   icons: {
     icon: [
       {
